@@ -1,7 +1,9 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝 👋
 
 
-**comaserious/comaserious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+이호준입니다
+아직은 준비 단계지만
+하다보면 나아지겠죠
 
 Here are some ideas to get you started:
 
