@@ -11,7 +11,7 @@
     </div>
     <div>
       <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=comaserious&theme=react-dark"/>
     </div>
     
 </div>
