@@ -7,7 +7,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div> 
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=radical"/>
-        <img sric="http://mazassumnida.wtf/api/generate_badge?boj=sciboviator"/>
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sciboviator)](https://solved.ac/sciboviator/)
     </div>
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&layout=donut&theme=radical"/>
