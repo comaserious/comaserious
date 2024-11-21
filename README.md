@@ -1,6 +1,6 @@
 
 <div align= "center">
-    <image src="https://github.com/user-attachments/assets/bd0c4f67-5e1e-41c3-9ac5-4414e6afea66"/>
+    <image src=" https://comaserious.github.io/comaserious/assets/animation.gif"/>
 </div>
 
 <div align="left">
