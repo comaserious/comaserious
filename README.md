@@ -5,9 +5,12 @@
 
 <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=radical"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&layout=donut&theme=radical"/>
+    <div> 
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=radical"/>
+        <img sric="http://mazassumnida.wtf/api/generate_badge?boj=sciboviator"/>
+    </div>
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&layout=donut&theme=radical"/>
     </div> 
 </div>
 
