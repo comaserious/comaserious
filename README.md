@@ -27,13 +27,14 @@
 </div>
 
 <br>
-
+<!--
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
+-->
 
 <br>
 
@@ -69,9 +70,11 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=comaserious&bg_color=180,d8d0e7,00000000&title_color=460f8a&text_color=460f8a"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&layout=compact&bg_color=180,d8d0e7,00000000&title_color=460f8a&text_color=460f8a"
-           /> </div> 
-    </div>
+        <img src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=radical"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&layout=donut&theme=radical"/>
+    </div> 
+</div>
     
