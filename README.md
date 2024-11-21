@@ -1,6 +1,6 @@
 
 <div align= "center">
-    ![GIF Example](https://github.com/comaserious/comaserious/blob/afb8a688812c8e5b257f0d8792765b19deaa40f9/assests/animation.gif)
+    <img src="https://github.com/comaserious/comaserious/blob/afb8a688812c8e5b257f0d8792765b19deaa40f9/assests/animation.gif"/>
 </div>
 
 <div align="left">
