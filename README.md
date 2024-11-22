@@ -3,15 +3,14 @@
     <img src="https://github.com/comaserious/comaserious/blob/ee24a0213a2ec3fbdca111a9c5b31cb5730692c1/assests/FINAL.gif"/>
 </div>
 
-<div align="left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div>
-      <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=holi" width = "49%" height="130%" />
-      <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sciboviator" width="42%" height="100%"/>
-    </div>
-    <div>
-        <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=comaserious&theme=tokyo-night"/>
-    </div>
+## 🏅 Stats
+<div align="center">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=holi" width="45%" height="180px" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sciboviator" width="45%" height="180px"/><br>
+    <br>
+    <img margin-left="3%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=comaserious&theme=tokyo-night" width="89%"/>
+</div>
     
 </div>
 <div align="left">
@@ -41,7 +40,12 @@
             <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=ffffff" /><br>
             <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=ffffff" /><br>
+            <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=ffffff" />
+        </td>
+    </tr>
+    <tr>
+        <td>Data Access</td>
+        <td>
             <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
         </td>
