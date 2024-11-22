@@ -44,13 +44,6 @@
         </td>
     </tr>
     <tr>
-        <td>Data Access</td>
-        <td>
-            <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
-        </td>
-    </tr>
-    <tr>
         <td>Frontend</td>
         <td>
             <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -63,6 +56,13 @@
             <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=fffff" />
             <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=FFFFFF" /> 
             <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /> 
+        </td>
+    </tr>
+        <tr>
+        <td>Data Access</td>
+        <td>
+            <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
         </td>
     </tr>
 </table>
