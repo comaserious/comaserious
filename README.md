@@ -1,6 +1,6 @@
 
 <div align= "center">
-    <img src="https://github.com/comaserious/comaserious/blob/61c634268cabfa28868c26a65f483e94f3a98a41/assests/animated.gif"/>
+    <img src="https://github.com/comaserious/comaserious/blob/ee24a0213a2ec3fbdca111a9c5b31cb5730692c1/assests/FINAL.gif"/>
 </div>
 
 <div align="left">
