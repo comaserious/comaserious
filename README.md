@@ -16,7 +16,7 @@
 </div>
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > :zap: Skills </h2>
-    <img height=200 width=250 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+    <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
     <table style="border-collapse: collapse; border: none;">
     <tr>
         <td>Language</td>
@@ -38,10 +38,12 @@
         <td>Backend</td>
         <td>
             <img src="https://img.shields.io/badge/node.js-1C3C3C.svg?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=ffffff" /><br>
             <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=ffffff" /><br>
+            <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
         </td>
     </tr>
     <tr>
