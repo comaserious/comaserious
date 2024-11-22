@@ -15,8 +15,8 @@
 </div>
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > :zap: Skills </h2>
-    <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-    <table style="border-collapse: collapse; border: none;">
+    <img width="40%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+    <table style="border-collapse: collapse; border: none;" width="60%">
     <tr>
         <td>Language</td>
         <td>
