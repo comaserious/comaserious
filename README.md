@@ -71,6 +71,7 @@
 </div>
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </div>
