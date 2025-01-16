@@ -57,7 +57,8 @@
         <td>
             <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=fffff" />
             <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=FFFFFF" /> 
-            <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /> 
+            <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" />
+            <img src="https://img.shields.io/badge/postgresql-#4169E1.svg?style=for-the-badge&logo=FFFFFF&logoColor=FFFFFF" />
         </td>
     </tr>
         <tr>
