@@ -85,6 +85,7 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
     <img src="https://img.shields.io/badge/colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
     <img src="https://img.shields.io/badge/intellijidea-4E92FF.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+    <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </div>
 
 ## 📚 Development Wiki
