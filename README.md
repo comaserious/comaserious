@@ -30,6 +30,7 @@
         <td>AI</td>
         <td>
             <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" />
+            <img src="https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" /><br>
             <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=fffff" />
             <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=ffffff" />
@@ -60,6 +61,7 @@
             <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /><br>
             <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
             <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
+            <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
         </td>
     </tr>
         <tr>
@@ -68,6 +70,12 @@
             <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
         </td>
+        <td>
+            DevOps / InfraStructure
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
+        </td>
     </tr>
 </table>
 </div>
@@ -75,7 +83,6 @@
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>
     <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </div>
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 🛠 Tools  </h2>
