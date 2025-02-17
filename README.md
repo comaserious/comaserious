@@ -30,7 +30,7 @@
         <td>AI</td>
         <td>
             <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" />
-            <img src="https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" /><br>
+            <img src="https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=fffff" /><br>
             <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=fffff" />
             <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=ffffff" />
@@ -85,6 +85,8 @@
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>
     <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
 </div>
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 🛠 Tools  </h2>
@@ -95,6 +97,7 @@
     <img src="https://img.shields.io/badge/colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
     <img src="https://img.shields.io/badge/intellijidea-4E92FF.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
     <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />
+    <img src="https://img.shields.io/badge/filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white" />
 </div>
 
 ## 📚 Development Wiki
