@@ -49,7 +49,7 @@
     </tr>
     <tr>
         <td>
-            DevOps / InfraStructure
+            InfraStructure
         </td>
         <td>
             <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
