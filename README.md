@@ -53,6 +53,7 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/celery-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
         </td>
     </tr>
     <tr>
