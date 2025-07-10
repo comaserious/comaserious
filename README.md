@@ -39,6 +39,8 @@
     <tr>
         <td>DB</td>
         <td>
+            <img src="https://img.shields.io/badge/milvus-00A1EA.svg?style=for-the-badge&logo=milvus&logoColor=ffffff" />
+            <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=fffff" />
             <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=FFFFFF" /> 
             <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /><br>
@@ -55,6 +57,14 @@
             <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=ffffff" />
             <img src="https://img.shields.io/badge/celery-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Message Queue
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=ffffff" />
         </td>
     </tr>
     <tr>
@@ -84,10 +94,10 @@
 </table>
 </div>
 <div align="left">
-    <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>   
+    <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>
+    <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
 </div>
 <div align="left">
