@@ -12,10 +12,8 @@
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=comaserious&theme=tokyo-night" width="89%"/>
 </div>
     
-</div>
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > :zap: Skills </h2>
-    <img width="30%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&show_icons=true&theme=holi"/>
     <table style="border-collapse: collapse; border: none;" width="60%">
     <tr>
         <td>Language</td>
@@ -92,7 +90,9 @@
         </td>
     </tr>
 </table>
+<!-- <img width="30%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&show_icons=true&theme=holi"/> -->
 </div>
+
 <div align="left">
     <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>
     <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=ffffff" />
@@ -100,21 +100,6 @@
     <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
 </div>
-<div align="left">
-    <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 🛠 Tools  </h2>
-    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-    <img src="https://img.shields.io/badge/colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
-    <img src="https://img.shields.io/badge/intellijidea-4E92FF.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
-    <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />
-    <img src="https://img.shields.io/badge/filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white" />
-</div>
 
-## 📚 Development Wiki
-> 프로젝트 구현 내용과 기술 스택에 대한 자세한 내용은 [Development Wiki](https://github.com/comaserious/comaserious/wiki)에서 확인하실 수 있습니다.
-> 
-> ### 주요 구현 내용
 
 
