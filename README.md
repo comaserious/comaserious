@@ -7,7 +7,7 @@
 <div align="center">
     <br>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=holi" width="45%" height="180px" /> -->
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sciboviator" width="45%" height="180px"/><br>
+    <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sciboviator" width="45%" height="180px"/><br> -->
     <br>
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=comaserious&theme=tokyo-night" width="89%"/>
 </div>
