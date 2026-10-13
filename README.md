@@ -1,105 +1,29 @@
+# 이호준 · AI Engineer
 
-<div align= "center">
-    <img src="https://github.com/comaserious/comaserious/blob/ee24a0213a2ec3fbdca111a9c5b31cb5730692c1/assests/FINAL.gif"/>
-</div>
+LLM으로 공공기관 서비스를 만들고 운영합니다.
+모델 서빙과 부하 테스트, 에이전트 오케스트레이션, 비동기 작업 파이프라인처럼 LLM을 실제 서비스로 굴리는 데 필요한 백엔드를 주로 다룹니다.
 
-## 🏅 Stats
-<div align="center">
-    <br>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=comaserious&show_icons=true&theme=holi" width="45%" height="180px" /> -->
-    <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sciboviator" width="45%" height="180px"/><br> -->
-    <br>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=comaserious&theme=tokyo-night" width="89%"/>
-</div>
-    
-<div align="left">
-    <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > :zap: Skills </h2>
-    <table style="border-collapse: collapse; border: none;" width="60%">
-    <tr>
-        <td>Language</td>
-        <td>
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-            <img src="https://img.shields.io/badge/java-BC1823.svg?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-            <img src="https://img.shields.io/badge/matlab-FF9045.svg?style=for-the-badge"/>
-        </td>
-    </tr>
-    <tr>
-        <td>AI</td>
-        <td>
-            <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=fffff" />
-            <img src="https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=fffff" /><br>
-            <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=fffff" />
-            <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-        </td>
-    </tr>
-    <tr>
-        <td>DB</td>
-        <td>
-            <img src="https://img.shields.io/badge/milvus-00A1EA.svg?style=for-the-badge&logo=milvus&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=fffff" />
-            <img src="https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=FFFFFF" /> 
-            <img src="https://img.shields.io/badge/chroma-FFDE59.svg?style=for-the-badge&logo=chroma&logoColor=FFFFFF" /><br>
-            <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
-            <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
-            <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            InfraStructure
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/celery-37814A.svg?style=for-the-badge&logo=celery&logoColor=ffffff" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Message Queue
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=ffffff" />
-        </td>
-    </tr>
-    <tr>
-        <td>Backend</td>
-        <td>
-            <img src="https://img.shields.io/badge/node.js-1C3C3C.svg?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=ffffff" /><br>
-            <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=ffffff" />
-        </td>
-    </tr>
-    <tr>
-        <td>Frontend</td>
-        <td>
-            <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-            <img src="https://img.shields.io/badge/react native-20232a.svg?style=for-the-badge&logo=reactnative&logoColor=61DAFB" />
-        </td>
-    </tr>
-    <tr>
-        <td>Data Access</td>
-        <td>
-            <img src="https://img.shields.io/badge/mybatis-E8E8E8.svg?style=for-the-badge&logo=mybatis&logoColor=ffffff" />
-            <img src="https://img.shields.io/badge/jpa-E8E8E8.svg?style=for-the-badge&logo=jpa&logoColor=ffffff" />
-        </td>
-    </tr>
-</table>
-<!-- <img width="30%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=comaserious&show_icons=true&theme=holi"/> -->
-</div>
+## Now
 
-<div align="left">
-    <h2 style="border-bottom 1px solid #d8dee4; color: #282d33;" > 📚 Studying  </h2>
-    <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=ffffff" />
-</div>
+- 공공기관 대상 LLM 서비스 개발 및 운영
+- 오픈 모델 서빙(vLLM) 성능 비교와 동시 접속 부하 테스트
+- 에이전트 오케스트레이션 루프와 대화 메모리 설계
 
+## Featured work
 
+| 저장소 | 내용 |
+|---|---|
+| [model_benchmark_test](https://github.com/comaserious/model_benchmark_test) | 단일 GPU에서 오픈 LLM을 동시 사용자 1~50명 단계로 부하 테스트하고 TTFT 등을 비교한 벤치마크 |
+| [orchestrator_loop_v2](https://github.com/comaserious/orchestrator_loop_v2) | FastAPI와 Redis로 만든 에이전트 오케스트레이션 루프 챗봇 서버 |
+| [batch_api_scheduler](https://github.com/comaserious/batch_api_scheduler) | OpenAI Batch API 제출, 지수 백오프 폴링, 콜백 전송을 자동화하는 FastAPI 서버 |
+| [celery-basic](https://github.com/comaserious/celery-basic) | Celery 분산 작업 처리를 모듈 구조로 정리한 예제 |
+| [short_term_memory_with_redisvl](https://github.com/comaserious/short_term_memory_with_redisvl) | RedisVL과 임베딩으로 대화 스레드별 단기 기억을 관리하는 챗봇 메모리 |
+| [elasticsearch-bm25](https://github.com/comaserious/elasticsearch-bm25) | Elasticsearch와 Nori로 구현한 한국어 BM25 검색 API |
+| [terminal_commu](https://github.com/comaserious/terminal_commu) | 커뮤니티 공개 게시글을 터미널에서 읽는 read-only TUI |
 
+## Stack
+
+- **LLM**: Python · LangGraph · LangChain · vLLM · Ollama · MCP
+- **Backend**: FastAPI · Celery · RabbitMQ · Redis · PostgreSQL
+- **Search**: Milvus · Elasticsearch · Chroma
+- **Infra**: Docker · Kubernetes
